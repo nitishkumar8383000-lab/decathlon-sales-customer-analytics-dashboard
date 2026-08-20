@@ -74,7 +74,7 @@ text
 ## 🚀 How to Use
 
 1. Download the Excel dashboard.
-2. Open the <a href="https://github.com/nitishkumar8383000-lab/decathlon-sales-customer-analytics-dashboard/commit/a3a9151359ba4eea307d278da3f6a37cdd8b6764"> .xlsx file in Microsoft Excel.
+2. Open the <a href="https://github.com/nitishkumar8383000-lab/decathlon-sales-customer-analytics-dashboard/commit/a3a9151359ba4eea307d278da3f6a37cdd8b6764"> .xlsx</a> file in Microsoft Excel.
 3. Use the slicers and filters to explore the data.
 4. Select different years or payment methods.
 5. Analyze the interactive charts and KPIs.
