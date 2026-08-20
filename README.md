@@ -65,11 +65,10 @@ text
 * ├── <a href="https://github.com/nitishkumar8383000-lab/decathlon-sales-customer-analytics-dashboard/edit/main/README.md"> README.md
 * ├── Dashboard
 * │   └── <a href="https://github.com/nitishkumar8383000-lab/decathlon-sales-customer-analytics-dashboard/commit/d0a86c8736200b7aaa1c4747a81c984c888a3fe5"> Decathlon_Sales_Dashboard.xlsx
-*├── Dataset
-*│   └── <a href="https://github.com/nitishkumar8383000-lab/decathlon-sales-customer-analytics-dashboard/commit/a3a9151359ba4eea307d278da3f6a37cdd8b6764"> Decathlon_Sales_Data.xlsx
-*└── Screenshots
-* └── <img width="1920" height="1020" alt="Screenshot 2026-08-20 101651" src="https://github.com/user-attachments/assets/6233cf93-7bbe-4d70-8848-0f7cdb649e59" />
-dashboard-preview.png
+* ├── Dataset
+* └── <a href="https://github.com/nitishkumar8383000-lab/decathlon-sales-customer-analytics-dashboard/commit/a3a9151359ba4eea307d278da3f6a37cdd8b6764"> Decathlon_Sales_Data.xlsx
+## Dashboard
+<img width="1920" height="1020" alt="Screenshot 2026-08-20 101651" src="https://github.com/user-attachments/assets/6233cf93-7bbe-4d70-8848-0f7cdb649e59" />
 
 
 ## 🚀 How to Use
