@@ -59,9 +59,8 @@ It provides decision-makers with a quick and visual way to understand business p
 
 ## 📂 Project Structure
 
-decathlon-sales-customer-analytics-dashboard/
+decathlon-sales-customer-analytics-dashboard
 * <a href="https://github.com/nitishkumar8383000-lab/decathlon-sales-customer-analytics-dashboard"> decathlon-sales-customer-analytics-dashboard/
-* │
 * ├── <a href="https://github.com/nitishkumar8383000-lab/decathlon-sales-customer-analytics-dashboard/edit/main/README.md"> README.md
 * ├── Dashboard
   *    └── <a href="https://github.com/nitishkumar8383000-lab/decathlon-sales-customer-analytics-dashboard/commit/d0a86c8736200b7aaa1c4747a81c984c888a3fe5"> Decathlon_Sales_Dashboard.xlsx
